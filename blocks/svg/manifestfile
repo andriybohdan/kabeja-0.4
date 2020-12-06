@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.8
+Created-By: 13.0.2+8 (Oracle Corporation)
+Main-Class: org.kabeja.ui.viewer.Main
+Class-Path: batik-all.jar js.jar miethxml-toolkit.jar pdf-transcoder.j
+ ar xml-apis-ext.jar xml-apis.jar kabeja-0.4.jar kabeja-xslt.jar mieth
+ xml-ui.jar 
+
