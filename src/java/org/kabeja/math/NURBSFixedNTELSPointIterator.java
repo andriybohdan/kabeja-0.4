@@ -107,6 +107,6 @@ public class NURBSFixedNTELSPointIterator implements Iterator {
         }
 
         double length = this.nurbs.getKnots()[this.interval] - this.t;
-        this.dt = length / this.ntels;
+        this.dt = length / this.ntels - 1e-10;
     }
 }
